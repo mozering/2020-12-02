@@ -1,0 +1,62 @@
+body {background-color: #FFB600; overflow-x: hidden; overflow-y: hidden;}
+.box0{fill:#BB2528;}
+.box1{fill:#146B3A;}
+.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.st1{fill:#1AC15D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.st2{fill:#FFC200;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.st3{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10; }
+.st4{fill:#FDFFFD;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.st5{fill:#D300FF;stroke:#000000;stroke-miterlimit:10;}
+	.box2{fill:#1AC15D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box3{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box4{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
+	.box5{fill:#D300FF;stroke:#000000;stroke-miterlimit:10;}
+.box6{fill:#D300FF;stroke:#000000;stroke-miterlimit:10;}
+	.box7{fill:#F7B000;stroke:#000000;stroke-miterlimit:10;}
+	.box8{fill:#1AC15D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box9{fill:#FFFFFF;stroke:#F7B000;stroke-miterlimit:10;}
+	.box10{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.box11{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
+	.box12{fill:#F40000;stroke:#000000;stroke-miterlimit:10;}
+	.box13{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box14{fill:#FFC200;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.box15{fill:#FF3000;stroke:#000000;stroke-miterlimit:10;}
+	.box16{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box17{fill:#FFC200;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box18{fill:#F5F5F5;stroke:#000000;stroke-miterlimit:10;}
+	.box19{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box20{fill:#C81E1E;}
+	.box21{fill:#FFC200;stroke:#000000;stroke-miterlimit:10;}
+	.box22{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box23{fill:#F0F5F9;}
+	.box24{fill:#E1E6E9;}
+	.box25{fill:#2F3A5A;}
+	.box26{fill:#C1CDD3;}
+	.box27{fill:#FFC200;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box28{fill:#FF3000;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box29{fill:#1AC15D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box30{fill:#F8F7DD;stroke:#000000;stroke-miterlimit:10;}
+	.box31{fill:#1AC15D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box32{fill:#FFC200;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.box33{fill:#D300FF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.box {position: fixed; top: 50px; left: 70px; }
+.content1 {position: fixed; top: 190px; z-index: 1; left: 77px;}
+.content2 {position: fixed; top: 520px; z-index: 1; left: 77px;}
+.content3 {position: fixed; top: 180px; z-index: 1; left: 200px;}
+.content4 {position: fixed; top: 180px; z-index: 1; left: 690px;}
+.content5 {position: fixed; top: 480px; z-index: 1; left: 730px;}
+.content6 {position: fixed; top: 280px; z-index: 1; left: 925px;}
+.content7 {position: fixed; top: 230px; z-index: 1; left: 1198px;}
+.content8 {position: fixed; top: 128px; z-index: 1;left: 1538px;}
+.content9 {position: fixed; top: 620px; z-index: 1; left: 105px;}
+.content10 {position: fixed; top: 755px; z-index: 1; left: 253px;}
+.content11 {position: fixed; top: 755px; z-index: 1; left: 1325px;}
+.text1 {    position: fixed;
+    top: 88px;
+    left: 111px;}
+    .text2 {     position: fixed;
+    top: 83px;
+    left: 530px;}
+        .text3 {  position: fixed;
+    top: 618px;
+    left: 1126px;}
